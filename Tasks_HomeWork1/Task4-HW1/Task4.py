@@ -13,3 +13,12 @@ if k < m * n and (k % n == 0 or k % m == 0):
     print('yes')
 else:
     print('no')
+
+# решение преподавателя 
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if c <= b * a and (c % a == 0 or c % b == 0):
+# print('yes')
+# else:
+# print('no')
