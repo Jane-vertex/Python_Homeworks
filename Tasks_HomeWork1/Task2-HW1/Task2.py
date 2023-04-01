@@ -14,3 +14,11 @@ k = int(sum/3*2)
 p = int(k/2/2)
 s = p
 print(p, k, s)
+
+# решение преподавателя 
+
+# n = int(input())
+# n1 = n // 6
+# n2 = n // 6
+# n3 = (n // 6) * 4
+# print(n1, n3, n2)
